@@ -1,0 +1,2 @@
+If adjacent swaps are possible, sorting is always possible.
+(This is what implementation of bubble sort relies on.)
